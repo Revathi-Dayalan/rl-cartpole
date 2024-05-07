@@ -148,6 +148,8 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 ## OUTPUT:
 Monte Carlo (MC) control algorithm is initiated with zero-initialized Q-values.
 ![image](https://github.com/DhivyaShri484/rl-cartpole/assets/94505585/7258a506-abd3-4a1f-a2d6-0e674dfbf4df)
+
+
 Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
 ![image](https://github.com/DhivyaShri484/rl-cartpole/assets/94505585/c32659f6-f748-4dc7-9c50-ec8c343a2ce8)
 
